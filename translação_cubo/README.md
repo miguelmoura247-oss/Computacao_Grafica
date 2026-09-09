@@ -1,4 +1,4 @@
-Cubo 3D em OpenGL
+#Cubo 3D em OpenGL
 
 -Projeto simpl  es em  C++ com OpenGL e GLUT 
 -Exibe um cubo 3D colorido girando continuamente em uma janela.
